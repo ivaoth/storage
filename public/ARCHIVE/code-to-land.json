@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "question_th": "Bangkok VOR คลื่นความถี่เท่าไหร่",
+      "question_en": "What is the frequency of Bangkok VOR?",
+      "ans_th": "117.7",
+      "ans_en": "117.7",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "TANGO1A เป็น SID หรือ STAR",
+      "question_en": "Is TANGO1A a SID or a STAR?",
+      "ans_th": "SID",
+      "ans_en": "SID",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "เครื่องบินเลี้ยวด้วยอะไร",
+      "question_en": "ล้อ/พวงมาลัย/อื่นๆ",
+      "ans_th": "N/A",
+      "ans_en": "N/A",
+      "type": "Joke"
+    },
+    {
+      "question_th": "เมื่อสักครู่ คุณใช้ STAR อะไรเข้ามา",
+      "question_en": "Which STAR did you use just now?",
+      "ans_th": "__________",
+      "ans_en": "__________",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "สนามบินดอนเมืองทางวิ่งไหนไม่มี ILS",
+      "question_en": "Which runway at Don Mueang does not have ILS?",
+      "ans_th": "03R",
+      "ans_en": "03R",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "สนามบินที่ใกล้ที่สุดจากสนามบินดอนเมืองคือสนามบินอะไร",
+      "question_en": "What is the nearest airport from Don Mueang?",
+      "ans_th": "สนามบินสุวรรณภูมิ",
+      "ans_en": "Suvarnabhumi",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ILS 21R/21L/03L Course เท่าไหร่",
+      "question_en": "What is the final course of ILS 21R/21L/03L?",
+      "ans_th": "21R/21L: 209 || 03L: 029",
+      "ans_en": "21R/21L: 209 || 03L: 029",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ILS 21R/21L/03L คลื่นความถี่เท่าไหร่",
+      "question_en": "What is the frequency of ILS 21R/21L/03L?",
+      "ans_th": "__________",
+      "ans_en": "__________",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "Approach เมื่อสักครู่คลื่นความถี่อะไร",
+      "question_en": "What is the frequency of Don Mueang Approach?",
+      "ans_th": "119.4",
+      "ans_en": "119.4",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "RVSM เริ่มที่ FL เท่าไหร่",
+      "question_en": "At which flight level that RVSM starts?",
+      "ans_th": "FL290",
+      "ans_en": "FL290",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "FAA ย่อมาจากอะไร",
+      "question_en": "What does FAA stand for?",
+      "ans_th": "Federal Aviation Administration",
+      "ans_en": "Federal Aviation Administration",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "จงบอกความแตกต่างระหว่าง FAA กับ ICAO",
+      "question_en": "Please tell one difference between FAA and ICAO.",
+      "ans_th": "__________",
+      "ans_en": "__________",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ICAO ย่อมาจากอะไร",
+      "question_en": "What does ICAO stand for?",
+      "ans_th": "International Civil Aviation Organisation",
+      "ans_en": "International Civil Aviation Organisation",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ระหว่าง METAR กับ ATIS อันไหนให้รายละเอียดมากกว่ากัน",
+      "question_en": "Between METAR and ATIS, which one gives more information?",
+      "ans_th": "__________",
+      "ans_en": "__________",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "TSRA ใน METAR คืออะไร",
+      "question_en": "What does TSRA in METAR mean?",
+      "ans_th": "Thunderstorm - Rain",
+      "ans_en": "Thunderstorm - Rain",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "คลื่น GUARD ความถี่เท่าไหร่",
+      "question_en": "What frequency is the GUARD frequency?",
+      "ans_th": "121.5",
+      "ans_en": "121.5",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "Final Approach Point ของ ILS Approach 21R มีความสูงเท่าไหร่",
+      "question_en": "What is the altitude of the final approach point for ILS 21R?",
+      "ans_th": "1,600 feet",
+      "ans_en": "1,600 feet",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "สนามบินสุวรรณภูมิเริ่มใช้ปีใด",
+      "question_en": "In which year does Suvarnabhumi open?",
+      "ans_th": "พ.ศ.2549/ค.ศ.2006",
+      "ans_en": "2006",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ตอนนี้สนามบินดอนเมืองเปิดใช้มาแล้วกี่ปี",
+      "question_en": "How long does Don Mueang International Airport have been in service?",
+      "ans_th": "104 ปี",
+      "ans_en": "104 years",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ยกตัวอย่างเครื่องบิน Turbo Prop มา 3 ชนิด",
+      "question_en": "Please give 3 examples of turboprop aircraft.",
+      "ans_th": "__________",
+      "ans_en": "__________",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "เครื่องบินลำใด wake turbulance หนักกว่า B747",
+      "question_en": "What aircraft have heavier wake turbulance category than the Boeing 747?",
+      "ans_th": "A380, An-225 Mriya",
+      "ans_en": "A380, An-225 Mriya",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "อะไรใหญ่กว่าเครื่องบิน",
+      "question_en": "Hangar/เครื่องบินชุบแป้งทอด",
+      "ans_th": "N/A",
+      "ans_en": "N/A",
+      "type": "Joke"
+    },
+    {
+      "question_th": "หากเครื่องบินร้องว่า “Climb climb” แล้ว ATC สั่งให้ลดระดับ ควรจะทำอย่างไร",
+      "question_en": "If the TCAS tells you to climb, but the ATC tells you to descend, what should you do?",
+      "ans_th": "Climb",
+      "ans_en": "Climb",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "IVAO ย่อมาจากอะไร",
+      "question_en": "What does IVAO stand for?",
+      "ans_th": "International Virtual Aviation Organisation",
+      "ans_en": "International Virtual Aviation Organisation",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "Airway พิเศษที่ทางกรมการบินพลเรือนจัดทำขึ้นพิเศษคืออะไร",
+      "question_en": "N/A",
+      "ans_th": "M904",
+      "ans_en": "N/A",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "สนามบินดอนเมืองมีกี่ Terminal",
+      "question_en": "How many terminals does Don Mueang have?",
+      "ans_th": "2",
+      "ans_en": "2",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ระหว่างทางวิ่ง 21L และ 21R อันไหนยาวกว่ากัน",
+      "question_en": "Between 21R and 21L, which runway is longer?",
+      "ans_th": "21R",
+      "ans_en": "21R",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ICAO ก่อตั้งโดยองค์กรใด",
+      "question_en": "Which organisation founded the ICAO?",
+      "ans_th": "United Nations/สหประชาชาติ",
+      "ans_en": "United Nations",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "FAA ก่อตั้งโดยใคร",
+      "question_en": "Who founded the FAA?",
+      "ans_th": "รัฐบาลสหรัฐอเมริกา",
+      "ans_en": "The US Federal Government",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "เครื่องบินลำใดมี 6 เครื่องยนต์",
+      "question_en": "Which aircraft has 6 engines?",
+      "ans_th": "An-225",
+      "ans_en": "An-225",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "A380 มีกี่ล้อ",
+      "question_en": "How many wheels does A380 have?",
+      "ans_th": "22",
+      "ans_en": "22",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ตอนนี้ลมความเร็วเท่าไหร่",
+      "question_en": "What is the wind speed right now?",
+      "ans_th": "(METAR)",
+      "ans_en": "(METAR)",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "ตอนนี้ AIRAC ปัจจุบันไปถึง cycle ใดแล้ว",
+      "question_en": "What is the current AIRAC cycle?",
+      "ans_th": "1804",
+      "ans_en": "1804",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "Airbus A320 จัดเป็นเครื่อง wake turbulance category อะไร",
+      "question_en": "Which wake turbulance category is the Airbus A320?",
+      "ans_th": "Medium",
+      "ans_en": "Medium",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "Wind 320 at 20 runway 30 cleared for take off สรุปความเร็วลมเท่า",
+      "question_en": "N/A",
+      "ans_th": "20 knots",
+      "ans_en": "N/A",
+      "type": "Aviation/Joke"
+    },
+    {
+      "question_th": "หอบอกให้เอาเครื่องลง และนักบินพร้อมจะลง แต่มีเครื่องบนรันเวย์สรุปเครื่องที่จะลงลงได้หรือไม่ได้",
+      "question_en": "The ATC clears you to land, you are ready to land, but there is an aircraft on the runway. Can you land?",
+      "ans_th": "ไม่ได้",
+      "ans_en": "No",
+      "type": "Aviation"
+    },
+    {
+      "question_th": "radial 370 15 DME BKK VOR เป็นที่ตั้งของอะไร",
+      "question_en": "What is located at radial 370 15 DME Bangkok VOR?",
+      "ans_th": "ไม่มี",
+      "ans_en": "Nothing",
+      "type": "Aviation"
+    }
+  ]
+}
