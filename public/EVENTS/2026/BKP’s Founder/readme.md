@@ -1,1 +1,0 @@
-BKP’s Founder meterial
